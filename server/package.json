@@ -17,6 +17,10 @@
     "bcrypt": "^5.0.1",
     "cors": "^2.8.5",
     "express": "^4.17.3",
+    "express-handlebars": "^3.0.0",
+    "dotenv": "^5.0.1",
+    "body-parser": "^1.18.2",
+    "messagebird": "^2.1.4",
     "mysql2": "^2.3.3",
     "sequelize": "^6.18.0"
   },
